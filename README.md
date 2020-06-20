@@ -1,4 +1,5 @@
-# Delustering to Improve Prefrencial Sampling
+
+# Delustering to Improve Preferential Sampling
 
 This work has been published by **Mehdi Rezvandehy** and **Clayton V. Deutsch** at Journal of [Stochastic Environmental Research and Risk Assessment](https://doi.org/10.1007/s00477-017-1388-x) https://doi.org/10.1007/s00477-017-1388-x. Here is a **Python** implementation with realistic data for declustering spatial correlation of data. If you have any question about the approach and implementation, please email me at [Mehdi Rezvandehy](rezvande@ualberta.ca).
 
