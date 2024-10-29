@@ -1,5 +1,5 @@
 
-# Delustering to Improve Preferential Sampling
+# Declustering to Improve Noisy Variogram
 
 This work has been published by **Mehdi Rezvandehy** and **Clayton V. Deutsch** at Journal of [Stochastic Environmental Research and Risk Assessment](https://doi.org/10.1007/s00477-017-1388-x) https://doi.org/10.1007/s00477-017-1388-x. **Python** implementation of declustering is presented in this repository. If you have any question about the approach and implementation, please email rezvande@ualberta.ca.
 
